@@ -16,3 +16,5 @@ Fonts & Icons: Use Google Fonts for something classy and throw in some icons fro
 5. Final Touches:
 Responsive Design: Make sure it looks good on all devices. You don’t want your brilliance going to waste on a tiny screen, do you?
 Deploy: Get that baby online! You can use GitHub Pages, Netlify, or any hosting service you like. Show the world what you’ve got.
+
+CHECK OUT https://nooraphussain.github.io/Random-Quote-Generator/ 
